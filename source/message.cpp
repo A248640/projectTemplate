@@ -1,5 +1,5 @@
 #include <iostream>
-#include "message.h"
+#include "message.hpp"
 
 int showMessage()
 {
