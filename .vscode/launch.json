@@ -9,7 +9,7 @@
             "program": "${workspaceFolder}/build/main.exe",
             "MIMode": "gdb",
             "miDebuggerPath": "D:/gcc/bin/gdb.exe",
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/build",
             "environment":
             [
                 {
