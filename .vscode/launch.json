@@ -6,9 +6,9 @@
             "name": "debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/main.exe",
             "MIMode": "gdb",
             "miDebuggerPath": "D:/gcc/bin/gdb.exe",
+            "program": "${workspaceFolder}/build/main.exe",
             "cwd": "${workspaceFolder}/build",
             "environment":
             [
